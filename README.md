@@ -22,28 +22,10 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 - Make sure you have make installed(optional)
 - Ensure you have git installed
 
-### METHOD 1
-#### STEPS TO INSTALL
-1. Clone the repository:
-    ```bash
-        git clone https://github.com/Shivam-avish235/NanoPad
-2. Navigate to Directory 
-    ```bash
-        cd Lint
-3. Make install.sh Executable
-    ```bash
-        chmod +x install.sh
-4. Run install.sh
-    ```bash
-        ./install.sh
-5. You are done!!
-    ```bash
-        Lint
-
-### METHOD 2 - using GCC
+### METHOD 1 - using GCC
 #### STEPS TO INSTALL
 
-1. Clone the repository OR just download nanopad.c:
+1. Clone the repository OR just download Lint.c:
     ```bash
         git clone https://github.com/Shivam-avish235/Lint
 2. Navigate to Directory
@@ -56,14 +38,14 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
     ```bash
         ./Lint
 
-### METHOD 3 - using MAKE
+### METHOD 2 - using MAKE
 #### STEPS TO INSTALL
-1. Clone the repository OR just download nanopad.c:
+1. Clone the repository OR just download Lint.c:
     ```bash
-        git clone https://github.com/Shivam-avish235/LINT
+        git clone https://github.com/Shivam-avish235/LINT---Lightweight-and-Intuitive-Text-Editor
 2. Navigate to Directory
     ```bash
-        cd Lint
+        cd LINT---Lightweight-and-Intuitive-Text-Editor
 3. Install Make(skip it if you have already)
     ```bash
         sudo apt install make
@@ -76,10 +58,6 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
     
 
 ## USASE
-- Opening a file(use ./nanopad if nanopad is not working)
-    ```bash
-        Lint FILE_NAME_WITH_EXTENSION
-
 - Search
     1. CTRL+F to search
     2. Use Arrow keys to go to next result or previous
@@ -88,7 +66,7 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 - Saving a File
     CTRL+S to save
 
-- Quiting NanoPad
+- Quiting LINT
     1. CTRL+Q to quit
     2. Press CTRL+Q 3 times if your file is not saved!
        
