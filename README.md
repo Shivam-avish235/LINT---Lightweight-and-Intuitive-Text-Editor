@@ -26,10 +26,10 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 #### STEPS TO INSTALL
 1. Clone the repository:
     ```bash
-        git clone https://github.com/Divakar-26/NanoPad
+        git clone https://github.com/Shivam-avish235/NanoPad
 2. Navigate to Directory 
     ```bash
-        cd NanoPad
+        cd Lint
 3. Make install.sh Executable
     ```bash
         chmod +x install.sh
@@ -38,23 +38,23 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
         ./install.sh
 5. You are done!!
     ```bash
-        nanopad
+        Lint
 
 ### METHOD 2 - using GCC
 #### STEPS TO INSTALL
 
 1. Clone the repository OR just download nanopad.c:
     ```bash
-        git clone https://github.com/Divakar-26/NanoPad
+        git clone https://github.com/Shivam-avish235/Lint
 2. Navigate to Directory
     ```bash
-        cd NanoPad
+        cd Lint
 3. Compile Using GCC
     ```bash
-        gcc nanopad.c -o nanopad
+        gcc Lint.c -o Lint
 4. Run
     ```bash
-        ./nanopad
+        ./Lint
 
 ### METHOD 3 - using MAKE
 #### STEPS TO INSTALL
